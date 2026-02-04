@@ -1,5 +1,5 @@
 # Next.js Experiments
-The project's prupose is to allow trying out new things and to learn the next.js framework, to reduce the overhead on real, standalone projects.
+The project's prupose is to allow trying out new things and to learn the next.js framework, to reduce the overhead on real, standalone projects in future.
 
 
 ## Auto Generated README
