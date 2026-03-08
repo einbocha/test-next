@@ -1,4 +1,4 @@
-# Next.js Experiments
+# [Next.js Experiments](https://einbocha.github.io/test-next/)
 The project's prupose is to allow trying out new things and to learn the next.js framework, to reduce the overhead on real, standalone projects in future.
 
 
